@@ -1,12 +1,12 @@
 # 🐍 30 Days Of Python
 
-  <strong>Learn with Asabeneh by joining the upcoming [<em>CODING BOOTCAMP</em>](https://docs.google.com/forms/d/e/1FAIpQLSf0oNIYR9XU1DCctfl-pY36KbWse-SQX5aQaUgetqSinFYnmQ/viewform) </strong>
+  
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction](./readme.md)|
-| 02  |  [Variables, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
-| 03  |  [Operators](./03_Day_Operators/03_operators.md)|
+| 01  |  [Introducción](./readme.md)|
+| 02  |  [Variables, Funciones Integradas](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
+| 03  |  [Operadores](./03_Day_Operators/03_operators.md)|
 | 04  |  [Strings](./04_Day_Strings/04_strings.md)|
 | 05  |  [Lists](./05_Day_Lists/05_lists.md)|
 | 06  |  [Tuples](./06_Day_Tuples/06_tuples.md)|
